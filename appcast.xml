@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>sparkleupdatetest</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Sat, 30 Dec 2023 15:07:44 -0500</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/DEmpire412/sparkleupdatetest/releases/download/prod/sparkleupdatetest.dmg" length="842144" type="application/octet-stream" sparkle:edSignature="hOCwOJDmbXtzYugv7qZMEATkCrQs1G8p7OleHUdT3nIeeR3TvwYQY7Dh5+ZXdDscspEPvw/Lzj5kuSrFNz3cCQ=="/>
+        </item>
+    </channel>
+</rss>
